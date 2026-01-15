@@ -1,0 +1,6 @@
+brand,n_reviews,avg_rating,pos_rate,neg_rate
+Amazon,307,4.289902280130293,0.8371335504885994,0.05211726384364821
+Amazon Fire Tv,32,4.53125,0.875,0.03125
+Amazon Echo,5,5.0,1.0,0.0
+Amazon Fire,2,5.0,1.0,0.0
+Amazon Digital Services Inc.,1,1.0,0.0,1.0
