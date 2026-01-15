@@ -11,7 +11,7 @@ __pycache__/
 venv/
 
 # Data: keep raw datasets out of git
-data/
+Data/raw
 
 # Optional: if you also want to exclude big exports
 # outputs/
