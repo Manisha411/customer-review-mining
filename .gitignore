@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data: keep raw datasets out of git
+data/
+
+# Optional: if you also want to exclude big exports
+# outputs/
